@@ -1,0 +1,25 @@
+{
+  "prefix":"!",
+  "statuses":[
+    "discord.gg/reefbot","discord.gg/reefbot","discord.gg/reefbot"
+  ],
+  "db": "MONGO",
+  "logs":"1010562047643222026",
+  "embedColor": "#2F3136",
+  "links":{
+   "bg": "",
+   "dc":"https://discord.gg/reefbot"
+  },
+   
+  "owner": [""],
+  "noprefix": [""],
+  "Webhooks": {
+    "bot_error": "WEBHOOK",
+    "db_error": "WEBHOOK",
+    "webhook_error": "WEBHOOK",
+    "server_add": "WEBHOOK",
+    "server_remove": "WEBHOOK"
+  },
+
+}
+  
